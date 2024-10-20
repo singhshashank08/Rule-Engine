@@ -30,8 +30,7 @@ Clone the repository:
 
 bash
 
-git clone https://github.com/your-repo/rule-engine-ast.git
-cd rule-engine-ast
+
 Install dependencies:
 
 Create a virtual environment and install the dependencies from requirements.txt:
